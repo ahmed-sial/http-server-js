@@ -23,3 +23,6 @@ Run the following command:
 
 ```bash
 node index.js
+```
+
+Navigate to the `http://localhost:3000` or click [here](http://localhost:3000/)
