@@ -22,4 +22,4 @@ This is a basic HTTP server built using Node.js' core `http` module. It handles 
 Run the following command:
 
 ```bash
-node server.js
+node index.js
